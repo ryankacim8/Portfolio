@@ -1,0 +1,12 @@
+#welcome-section{
+    height:33%;background:linear-gradient(red,blue);
+  }
+  #projects{
+    height:33%;background:linear-gradient(blue,red);
+  }
+  #contact{
+  height:33%;  background:linear-gradient(red,blue);
+  }
+  .text{
+    color:white;
+  }
